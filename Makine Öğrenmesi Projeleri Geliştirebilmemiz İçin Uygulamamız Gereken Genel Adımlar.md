@@ -6,8 +6,7 @@ Problemimize göre ham verilerin elde edildiği bölümdür. Bu veriler; web ver
 ***Patika.dev platformunda anlık olarak 1200 kullanıcının aktif olması bir veri örneğidir. Fakat, 'Bu platformda kullanıcılar en çok 22:00 ve 02:00 saatleri arasında aktiftir.' bir bilgidir.***
 
 ## Verilerin Hazırlanması
-Veri setinin hazırlanması için 
-verilerin seçilmesi (Veri setinin içinde problemimize uygun bağımsız değişkenlerimizin belirlenmesi), temizlenmesi (Verimizin grafiğini çizdirdiğimizde ve incelendiğimizde az sayıda veri grafiğimizi bozuyorsa, çalıltığımız probleme göre o veriyi temizleyebiliriz.), formatının uygunluğu (Örneğin, kullandığımız veri setinde hasta,sağlıklı gibi metin formatında veriler olabilir.  Scikit-learn bunu bilemeyeceğinden 0, 1 şeklinde bilebileceği uygun formata getirmeliyiz.) vb. durumlar gözden geçirilir. 
+Veri setinin hazırlanması için verilerin seçilmesi (Veri setinin içinde problemimize uygun bağımsız değişkenlerimizin belirlenmesi), temizlenmesi (Veri setimizin grafiğini çizdirdiğimizde ve incelendiğimizde az sayıda veri grafiğimizi bozuyorsa, çalıştığımız probleme uygun olarak o veriyi temizleyebiliriz.), formatının uygunluğu (Örneğin, kullandığımız veri setinde hasta,sağlıklı gibi metin formatında veriler olabilir.  Scikit-learn bunu bilemeyeceğinden 0, 1 şeklinde bilebileceği uygun formata getirmeliyiz.) vb. durumlar gözden geçirilir. 
 
 ***Veri hazırlama süreci her bir veri seti için projenin amacına göre değişiklik 
 göstermektedir.***
