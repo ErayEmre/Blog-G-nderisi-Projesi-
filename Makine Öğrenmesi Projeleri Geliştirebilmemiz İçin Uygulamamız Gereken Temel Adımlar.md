@@ -1,4 +1,4 @@
-# Makine Öğrenmesi Projeleri Geliştirebilmemiz İçin Uygulamamız Gereken Genel Adımlar
+# Makine Öğrenmesi Projeleri Geliştirebilmemiz İçin Uygulamamız Gereken Temel Adımlar
 
 ## Problemin Belirlenmesi ve Verilerin Toplanması
 Problemimize göre ham verilerin elde edildiği bölümdür. Bu veriler; web verilerinden, sensör verilerinden, deney verilerinden, araştırmalardan vb. yollardan elde edilebilir. Kişisel verilerle ilgileniyorsanız toplanan veriler, yetkisiz kişilerin erişimine açılmamalı ve kişilik haklarını ihlal etmemelidir.
