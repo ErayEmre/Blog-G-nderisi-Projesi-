@@ -4,7 +4,7 @@ Karşınızdaki kişiye sıcaklık,zaman,uzunluk,... gibi fiziksel nicelikleri k
 ## Düzlemde Vektörler
 Düzlemde bir vektörü başlangıç noktası, bitiş noktası olan yönlü bir doğru parçası olarak düşünebiliriz.
 
-<img src='vektörgörsel-1.png' alt='A,B ve C Vektörleri ' style='float:right ; padding:10px'>
+<img src='[vektörgörsel-1.png](https://github.com/ErayEmre/Blog-Gonderisi-Projeleri-/issues/1#issue-1433079028)' alt='A,B ve C Vektörleri ' style='float:right ; padding:10px'>
 
 3 farklı vektörün bulunduğu görselde, **A** ve **B** vektörlerinin aynı yönde, **C** vektörünün ise diğer iki vektöre göre ters yönde olduğunu söyleyebiliriz. Aynı zamanda, **B** ve **C** vektörlerinin büyüklükleri aynı, yönleri birbirine göre ters olduğu için "**B** vektörü **C** vektörünün negatifi veya  **C** vektörü **B** vektörünün negatifidir." gibi yorumlar yapabiliriz.
 
